@@ -36,4 +36,4 @@
   </a> 
 </p>
 
-[pnr]: https://pnr.ir
+[htsc]: https://htsc.ir

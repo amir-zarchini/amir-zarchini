@@ -18,7 +18,6 @@
 
 - 🔭 I’m currently working on [novin hi-tech solutions company (htsc.ir)][htsc]
 - 👯 I’m looking to collaborate with other java developers
-- ⚡ Fun fact: I love anime and astronomy and motorcycle and fighter jets 🤣
 
 ### Languages and Tools:
 <p align="left">
